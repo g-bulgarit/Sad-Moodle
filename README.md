@@ -1,5 +1,8 @@
 # Sad-Moodle
 Make Moodle genuine again.
+<div align="center">
+<img alt="sad_moodle" src="https://i.imgur.com/CKQUROV.png">
+</div>
 
 How dare they show us pictures of **happy** students?
 
