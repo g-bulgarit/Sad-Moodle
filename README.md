@@ -4,6 +4,10 @@ Make Moodle genuine again.
 <img alt="sad_moodle" src="https://i.imgur.com/CKQUROV.png">
 </div>
 
+<div align="center">
+<img alt="sad_moodle_preview" src="https://i.imgur.com/k5wY5J2.png">
+</div>
+
 How dare they show us pictures of **happy** students?
 
 This extension replaces the happy students with real, depressed students, and helps restore peace to the world of Moodle.
